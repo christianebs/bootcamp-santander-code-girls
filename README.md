@@ -1,2 +1,2 @@
-# bootcamp-santander-code-girls
-Desafios do Bootcamp Santander Code Girls
+# Bootcamp Santander Code Girls
+Aqui econtram-se todos os desafios de aulas do Bootcamp Santander Code Girls ministrados pela pela DIO.
