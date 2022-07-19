@@ -1,4 +1,4 @@
-# Desafio POO
+# Projeto POO
 
 1. ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS.
 2. Criar CLASSES: Bootcamp, Cursos, Mentorias e Devs e relaciona-las.
